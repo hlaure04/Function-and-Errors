@@ -10,7 +10,7 @@ Installing Remix Online IDE
 - Complete all required installations ahead of time.
 - Get "ErrorHandling.sol" from the original file and transfer it.
 - Go to https://remix.ethereum.org to start the IDE
-- Go to the .sol file to view the code
+- Go to the [.sol file to view the code](https://github.com/hlaure04/Smart-Contract/blob/main/SmartContract.sol) to view the code
 
 # Code Preview
   
